@@ -3,6 +3,8 @@
 This shell script calculates simple interest.
 
 ## Usage
+## Usage
 
 Run the script with principal, rate, and time as inputs.
-echo "Note: This change is from bug-fix-typo branch." >> README.md
+
+Note: This update was made in the bug-fix-typo branch.
